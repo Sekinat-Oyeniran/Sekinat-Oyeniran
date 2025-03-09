@@ -37,8 +37,8 @@ I love public speaking because it allows me to express myself confidently while 
 # PORTFOLIO  (PROJECT SECTION)
 Showcase projects with:
 
-Title (e.g., Sales Dashboard in Power BI)
-description ()
+Title (Sales-Trends-Profitability-Insights-International-Breweries-Analysis)
+Description ()
 Tech stack (EXCEL SQL, POWER BI)
 Links (GitHub repo, live demo, Medium article)
 
