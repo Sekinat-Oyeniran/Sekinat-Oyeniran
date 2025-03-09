@@ -22,13 +22,25 @@ I am a proactive problem solver who views every challenge as an opportunity to l
 I love public speaking because it allows me to express myself confidently while enhancing my vocabulary and communication skills.
 
 # CERTIFICATION & COURSES 
-##### 
+🏆 Microsoft Power Platform Fundamentals Certified  📌 View Certification: 
 
-##### DataCamp Course Completion: Check out my portfolio highlights on Data Camp 
-https://www.datacamp.com/portfolio/sekkyshines 
+ https://learn.microsoft.com/api/credentials/share/en-us/SakinahOyeniran-9051/2D21F5A19D816F76?sharingId=5BD3B9F829F4646C
 
-#####  Microsoft Power Platform Fundamental Courses Completed & Badges: Microsoft Learn Profile 
-https://learn.microsoft.com/en-us/users/me/  
+📊 DataCamp Course Completions  📌 Portfolio & Course Highlights: View on DataCamp 
+
+ https://www.datacamp.com/portfolio/sekkyshines 
+
+🎖 Microsoft Power Platform Courses & Badges 📌 Microsoft Learn Profile:  Check My Achievements  
+ 
+ https://learn.microsoft.com/en-us/users/  
+
+# PORTFOLIO  (PROJECT SECTION)
+Showcase projects with:
+
+Title (e.g., Sales Dashboard in Power BI)
+description ()
+Tech stack (EXCEL SQL, POWER BI)
+Links (GitHub repo, live demo, Medium article)
 
 
 
