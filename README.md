@@ -35,12 +35,14 @@ I love public speaking because it allows me to express myself confidently while 
  https://learn.microsoft.com/en-us/users/  
 
 # PORTFOLIO  (PROJECT SECTION)
-Showcase projects with:
 
 Title (Sales-Trends-Profitability-Insights-International-Breweries-Analysis)
-Description ()
+
+Description (Analyzing sales trends in the International Breweries dataset to uncover key insights, optimize decision-making, maximize profitability, and minimize losses through data-driven strategies.)
+
 Tech stack (EXCEL SQL, POWER BI)
-Links (GitHub repo, live demo, Medium article)
+
+Link ( https://github.com/Sekinat-Oyeniran/Sales-Trends-Profitability-Insights-International-Breweries-Analysis)
 
 
 
