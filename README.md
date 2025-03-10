@@ -44,6 +44,18 @@ Tech stack (EXCEL SQL, POWER BI)
 
 Link ( https://github.com/Sekinat-Oyeniran/Sales-Trends-Profitability-Insights-International-Breweries-Analysis)
 
+# EDUCATION 
+•	Data Analytics Programme, Generation UK & Ireland, England
+
+•	Data Analytics Programme, Transform Learning Academy, England
+
+•	Data Science Fellowship Programme, Utiva, England
+
+•	MSc (Hons) in Analytical Chemistry - Distinction, Grade B
+
+•	BSc (Hons) in Industrial Chemistry - Second Class Upper                            
+
+
 
 
 
