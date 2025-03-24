@@ -1,5 +1,5 @@
 # 📌 INTRODUCTION  
-### Hello!👋 I 'm Sekinat Oyeniran,  
+### Hello!👋 I'm Sekinat Oyeniran
 ##### A Data Analyst passionate about transforming complex business problems into technical solutions and driving measurable results.
 
 # 📌 ABOUT ME 
