@@ -54,7 +54,7 @@ I love public speaking because it allows me to express myself confidently while 
 🎓 **BSc (Hons) in Industrial Chemistry** – Second Class Upper  
 
 # 📌 LET’S CONNECT  
-📧 Email: [sekkyshines@gmail.com]
+📧 Email: [sekkyshines@gmail.com](mailto:sekkyshines@gmail.com)
 
 🔗 LinkedIn: [www.linkedin.com/in/sekinato]
 
