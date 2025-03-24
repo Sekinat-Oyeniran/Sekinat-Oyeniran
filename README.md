@@ -56,9 +56,9 @@ I love public speaking because it allows me to express myself confidently while 
 # 📌 LET’S CONNECT  
 📧 Email: [sekkyshines@gmail.com](mailto:sekkyshines@gmail.com)
 
-🔗 LinkedIn: [www.linkedin.com/in/sekinato]
+🔗 LinkedIn: [www.linkedin.com/in/sekinato](https://www.linkedin.com/in/sekinato)
 
-🌐 Portfolio: [GitHub Profile](https://github.com/Sekinat-Oyeniran)  
+🌐 Portfolio: [GitHub Profile](https://github.com/Sekinat-Oyeniran) 
 
 
 
