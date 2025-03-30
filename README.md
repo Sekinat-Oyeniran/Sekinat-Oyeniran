@@ -42,7 +42,7 @@ I love public speaking because it allows me to express myself confidently while 
 
 📊 **Description:** (Analyzing sales trends in the International Breweries dataset to uncover key insights, optimize decision-making, maximize profitability, and minimize losses through data-driven strategies.)
 
-🔹 **Tech Stack:** Excel | SQL | Power BI | Power BI 
+🔹 **Tech Stack:** Excel | SQL | Power BI | PowerPoint
 
 🔹 **GitHub Repository:** [View Project](https://github.com/Sekinat-Oyeniran/Sales-Trends-Profitability-Insights-International-Breweries-Analysis)
 
