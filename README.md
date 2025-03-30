@@ -1,12 +1,32 @@
 # 📌 INTRODUCTION  
 ### Hello!👋 I'm Sekinat Oyeniran
-##### A Data Analyst passionate about transforming complex business problems into technical solutions and driving measurable results.
+
+A Data Analyst passionate about transforming complex business problems into technical solutions and driving measurable results.
 
 # 📌 ABOUT ME 
-##### I specialize in uncovering insights from data to drive strategic decision-making. With expertise in Microsoft Office tools, SQL, Python, Tableau, and Power BI, I enjoy crafting compelling stories with data. I thrive on solving real-world business challenges and optimizing processes through data-driven solutions. 
+I specialize in uncovering insights from data to drive strategic decision-making. With expertise in Microsoft Office tools, SQL, Python, Tableau, and Power BI, I enjoy crafting compelling stories with data. I thrive on solving real-world business challenges and optimizing processes through data-driven solutions. 
 
 # 📌 EXPERIENCE  
-With 3 years of experience in the Finance and Business Consulting sectors, I have developed strong analytical and problem-solving skills, enabling businesses to make data-driven decisions.
+
+## A Professional Problem Solver
+
+I see challenges as opportunities to grow and refine my skills. With strong analytical and problem-solving abilities, I empower businesses to make data-driven decisions, particularly in the finance and business consulting sectors.
+
+
+Data Analyst
+Alexander Maclean, England, UK
+June 2023 – May 2024
+
+*  Provided critical insights into market trends and sales assessments, playing a pivotal role in shaping expansion strategies.
+*  Developed and implemented a data-driven decision-making framework, enabling the executive team to make more informed and strategic choices, which led to a 5% increase in business success.
+  
+Data Analyst
+Quantum Intervention, Osun, Nigeria
+January 2018 – December 2019
+
+* Collected, processed, and cleaned large datasets, leveraging Power BI to upload, analyze, and present data effectively, ensuring key insights were accessible and actionable for the team.
+* Integrated business analytics reporting tools to deliver detailed reports for senior management, driving strategic decisions and contributing to a 20% increase in sales.
+* Developed automated customer service reports using SQL and Excel macros, reducing report generation time by 30% and significantly improving accuracy
 
 # 📌 SKILLS HIGHLIGHTS  
 
