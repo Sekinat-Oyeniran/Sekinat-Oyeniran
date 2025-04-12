@@ -72,7 +72,7 @@ I love public speaking because it allows me to express myself confidently while 
 🎓 **Data Analytics Programme** – Generation UK & Ireland, England  
 🎓 **Data Analytics Programme** – Transform Learning Academy, England  
 🎓 **Data Science Fellowship Programme** – Utiva, England  
-🎓 **MSc (Hons) in Analytical Chemistry** – Distinction, Grade B  
+🎓 **MSc (Hons) in Analytical Chemistry** – Merit
 🎓 **BSc (Hons) in Industrial Chemistry** – Second Class Upper  
 
 # 📌 LET’S CONNECT  
