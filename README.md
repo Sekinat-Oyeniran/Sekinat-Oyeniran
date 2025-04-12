@@ -66,6 +66,8 @@ I love public speaking because it allows me to express myself confidently while 
 
 🔹 **GitHub Repository:** [View Project](https://github.com/Sekinat-Oyeniran/Sales-Trends-Profitability-Insights-International-Breweries-Analysis)
 
+🔹 **Tableau Public Profile:** 🔗 [https://public.tableau.com/app/profile/sekinat.oyeniran](https://public.tableau.com/app/profile/sekinat.oyeniran)
+
 # 📌 EDUCATION  
 🎓 **Data Analytics Programme** – Generation UK & Ireland, England  
 🎓 **Data Analytics Programme** – Transform Learning Academy, England  
