@@ -68,6 +68,8 @@ I love public speaking because it allows me to express myself confidently while 
 
 🔹 **Tableau Public Profile:** 🔗 [https://public.tableau.com/app/profile/sekinat.oyeniran](https://public.tableau.com/app/profile/sekinat.oyeniran)
 
+🔹 **Python Project:** https://github.com/Sekinat-Oyeniran/Global_tech-Population-Analysis
+
 # 📌 EDUCATION  
 🎓 **Data Analytics Programme** – Generation UK & Ireland, England  
 🎓 **Data Analytics Programme** – Transform Learning Academy, England  
