@@ -51,15 +51,24 @@ Microsoft Learn Profile: [Check my Achievements](https://learn.microsoft.com/en-
 
 📁 Featured Projects
 
-* Sales-Trends-Profitability-Insights-International-Breweries-Analysis
+* [Sales-Trends-Profitability-Insights-International-Breweries-Analysis](https://github.com/Sekinat-Oyeniran/Sales-Trends-Profitability-Insights-International-Breweries-Analysis)
 
-* Green Taxi Operations in NYC
+* [Green Taxi Operations in NYC](https://github.com/Sekinat-Oyeniran/Green_taxi_dataset_2022)
 
-* Olist Power BI Sales Analysis
+* [Olist Power BI Sales Analysis](https://github.com/Sekinat-Oyeniran/olist-powerbi-sales-analysis)
 
-* GLOBALTECH Population Data Analysis
+* [GLOBALTECH Population Data Analysis](https://github.com/Sekinat-Oyeniran/GLOBALTECH-Population-Data-Analysis)
 
-* Tableau-Projects
+* [Tableau-Profile]( https://public.tableau.com/app/profile/sekinat.oyeniran)
+
+📌 EDUCATION
+
+* Data Analytics Programme – Generation UK & Ireland, England
+* Data Analytics Programme – Transform Learning Academy, England
+* Data Science Fellowship Programme – Utiva, England
+* MSc (Hons) in Analytical Chemistry – Merit 
+* BSc (Hons) in Industrial Chemistry – Second Class Upper
+
 
 📌 LET’S CONNECT
 
